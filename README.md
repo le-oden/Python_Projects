@@ -18,5 +18,5 @@ The code came from the following location: [The Instacart Online Grocery Shoppin
   - Analysis: This folder contains all visualizations that were associated with this project
   - Data: Contais cross tab files that were generated as part of the analysis
   - Project Management: Contains the project brief
-  - Scripts: Contains all python code generated for the analysis
+  - CF 4.10 Final Project: Contains all python code generated for the analysis
   - Sent to Client: Contains the full project writeip along with data cleaning activities and derived columns
