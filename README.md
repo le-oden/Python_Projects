@@ -10,9 +10,11 @@ The code came from the following location: [The Instacart Online Grocery Shoppin
 - Customers
 
 # Programs
-- Jupytr Note Book
+- Jupyter Note Book
 - Matlab - for data visualization
 - Seaborn - for data visualization
+- Pandas- for data manipulation
+- OS - for process management
   
 # Files
   - Analysis: This folder contains all visualizations that were associated with this project
